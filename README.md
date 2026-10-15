@@ -6,7 +6,9 @@
 
 **Подготовка приложений, выпусков и данных каталога.**
 
-[Каталог](https://github.com/gkuhtov/GeraKStore) · [Веб-версия](https://github.com/gkuhtov/GeraKStore-Web)
+[Основной каталог](https://github.com/gkuhtov/GeraKStore) · [Веб-каталог](https://github.com/gkuhtov/GeraKStore-Web)
+
+[Профиль автора](https://github.com/gkuhtov)
 
 </div>
 
@@ -63,10 +65,10 @@
 - [GeraKStore-Welcome](https://github.com/gkuhtov/GeraKStore-Welcome) — приветственные интерфейсы.
 - [GeraKProtocol](https://github.com/gkuhtov/GeraKProtocol) — общая документация экосистемы.
 
+---
+
 ## 👤 Авторство
 
 **Гера Кухтов / madebygood** · [GitHub](https://github.com/gkuhtov)
 
----
-
-<sub>GeraKStore Manager · Документация проекта · Русский язык</sub>
+<sub>Экосистема GeraK · Документация на русском языке</sub>
