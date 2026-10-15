@@ -5,7 +5,7 @@
 ### Инструмент управления каталогом GeraKStore
 
 
-[Основной каталог](https://github.com/gkuhtov/GeraKStore) · [Веб-каталог](https://github.com/gkuhtov/GeraKStore-Web)
+[Основной каталог](https://github.com/gkuhtov/GeraKStore) · [Веб-каталог](https://github.com/gkuhtov/GeraKWeb)
 
 [Профиль автора](https://github.com/gkuhtov)
 
@@ -60,8 +60,8 @@
 ## 🔗 Связь с экосистемой
 
 - [GeraKStore](https://github.com/gkuhtov/GeraKStore) — основной каталог и его данные.
-- [GeraKStore-Web](https://github.com/gkuhtov/GeraKStore-Web) — веб-каталог.
-- [GeraKStore-Welcome](https://github.com/gkuhtov/GeraKStore-Welcome) — приветственные интерфейсы.
+- [GeraKWeb](https://github.com/gkuhtov/GeraKWeb) — веб-каталог.
+- [GeraKWelcome](https://github.com/gkuhtov/GeraKWelcome) — приветственные интерфейсы.
 - [GeraKProtocol](https://github.com/gkuhtov/GeraKProtocol) — общая документация экосистемы.
 
 ---
