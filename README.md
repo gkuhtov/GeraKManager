@@ -4,7 +4,6 @@
 
 ### Инструмент управления каталогом GeraKStore
 
-**🛠️ Рабочая кухня GeraKStore: снаружи витрина, внутри вся работа.**
 
 [Основной каталог](https://github.com/gkuhtov/GeraKStore) · [Веб-каталог](https://github.com/gkuhtov/GeraKStore-Web)
 
